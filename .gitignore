@@ -7,3 +7,10 @@
 /resoluciones/build/classes/
 /resoluciones/.settings/
 *.class
+
+/.settings/
+/.classpath
+.project
+bin/
+/build/classes/
+*.class

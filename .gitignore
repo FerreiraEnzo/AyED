@@ -2,3 +2,8 @@
 /.settings/
 /.classpath
 .project
+
+/resoluciones/bin/
+/resoluciones/build/classes/
+/resoluciones/.settings/
+*.class

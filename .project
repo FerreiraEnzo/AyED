@@ -14,21 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/Practicas/Practica1/2025_TP1_Listas (1).pdf</name>
-			<type>1</type>
-			<location>C:/Users/PC/Downloads/2025_TP1_Listas (1).pdf</location>
-		</link>
-		<link>
-			<name>src/Practicas/Practica2/2025_TP2_AB (7).pdf</name>
-			<type>1</type>
-			<location>C:/Users/PC/Downloads/2025_TP2_AB (7).pdf</location>
-		</link>
-		<link>
-			<name>src/Practicas/Practica3/2025_TP3_AG (4).pdf</name>
-			<type>1</type>
-			<location>C:/Users/PC/Downloads/2025_TP3_AG (4).pdf</location>
-		</link>
-	</linkedResources>
 </projectDescription>
